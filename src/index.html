@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>New Tab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="data-url:./style.scss" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="grid" class="grid"></div>
+    </div>
+    <div class="buttons">
+      <button id="add" title="Add">+<span>Add</span></button>
+      <button id="openModal" title="Settings">%<span>Settings</span></button>
+    </div>
+    <div class="modal" id="modal">
+      <button id="closeModal" class="close-button">X</button>
+      <h1>Simple New Tab Page</h1>
+      <h2>
+        <a href="https://github.com/carbongo/simple-new-tab-page/releases">
+          1.0.0 GitHub
+        </a>
+      </h2>
+      <p>A simple custom New Tab page for all kinds of web browsers.</p>
+      <hr />
+      <h3>Settings</h3>
+      <button id="export" class="export-button">Export</button>
+      <button id="import" class="import-button">Import</button>
+      <button id="reset" class="reset-button">Reset websites</button>
+      <hr />
+      <p class="copyright">Copyright &copy; 2023 carbongo</p>
+    </div>
+    <script src="data-url:./script.js" type="module"></script>
+  </body>
+</html>

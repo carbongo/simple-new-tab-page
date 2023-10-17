@@ -1,0 +1,37 @@
+[
+  {
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "icon": "https://img.icons8.com/?size=96&id=19318&format=png"
+  },
+  {
+    "title": "Google",
+    "url": "https://google.com",
+    "icon": "https://img.icons8.com/?size=96&id=17949&format=png"
+  },
+  {
+    "title": "Reddit",
+    "url": "https://reddit.com",
+    "icon": "https://img.icons8.com/?size=96&id=13642&format=png"
+  },
+  {
+    "title": "Facebook",
+    "url": "https://facebook.com",
+    "icon": "https://img.icons8.com/?size=96&id=118497&format=png"
+  },
+  {
+    "title": "Google Translate",
+    "url": "https://translate.google.com",
+    "icon": "https://img.icons8.com/?size=96&id=13647&format=png"
+  },
+  {
+    "title": "Amazon",
+    "url": "https://amazon.com",
+    "icon": "https://img.icons8.com/?size=96&id=21295&format=png"
+  },
+  {
+    "title": "9Gag",
+    "url": "https://9gag.com",
+    "icon": "https://img.icons8.com/?size=96&id=38640&format=png"
+  }
+]
