@@ -81,6 +81,10 @@ If you wish to contribute to the project, follow these steps:
 3. Run the application using `yarn dev`
 4. Open a web browser and navigate to `http://localhost:1234`
 
+## Credits
+
+The default icons for websites are sourced from [Icons8](https://icons8.com).
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
